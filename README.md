@@ -10,8 +10,8 @@ Model evaluation using performance metrics
 Predict house prices for new data
 # Technologies Used
 #Python
-# Pandas
-# NumPy
+#Pandas
+#NumPy
 # Scikit-learn
 # Matplotlib
 # Seaborn
