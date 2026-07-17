@@ -1,5 +1,5 @@
 # house-prediction-model
-AA machine learning project that predicts the selling price of houses using various property features. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and price prediction.
+A machine learning project that predicts the selling price of houses using various property features. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and price prediction.
 
 Features
 Data preprocessing and cleaning
@@ -8,16 +8,15 @@ Feature engineering
 Machine learning model training
 Model evaluation using performance metrics
 Predict house prices for new data
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
-Jupyter Notebook
-Workflow
-Load the dataset
+# Technologies Used
+# Python
+# Pandas
+# NumPy
+# Scikit-learn
+# Matplotlib
+# Seaborn
+# cloab
+# Load the dataset
 Clean and preprocess the data
 Perform exploratory data analysis
 Train the machine learning model
