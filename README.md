@@ -9,7 +9,7 @@ Machine learning model training
 Model evaluation using performance metrics
 Predict house prices for new data
 # Technologies Used
-# Python
+#Python
 # Pandas
 # NumPy
 # Scikit-learn
